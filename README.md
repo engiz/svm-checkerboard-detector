@@ -1,0 +1,1 @@
+# svm-checkerboard-detector
